@@ -398,10 +398,13 @@ footer .footer-contenedor{
     }
 
     .contenedor-acerca-de .card-acerca{
-        width: 100%;
+        width: 90%;
     }
     .servicio .img-servicio{
         width: 90%;
+    }
+    .servicio .contenido-servicio{
+        width: 92%;
     }
     .galeria-img{
         width: 100%;
